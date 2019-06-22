@@ -1,0 +1,11 @@
+C:\Users\betot\source\repos\Projeto SQL Montador\bin\Debug\netcoreapp2.1\Projeto SQL Montador.deps.json
+C:\Users\betot\source\repos\Projeto SQL Montador\bin\Debug\netcoreapp2.1\Projeto SQL Montador.runtimeconfig.json
+C:\Users\betot\source\repos\Projeto SQL Montador\bin\Debug\netcoreapp2.1\Projeto SQL Montador.runtimeconfig.dev.json
+C:\Users\betot\source\repos\Projeto SQL Montador\bin\Debug\netcoreapp2.1\Projeto SQL Montador.dll
+C:\Users\betot\source\repos\Projeto SQL Montador\bin\Debug\netcoreapp2.1\Projeto SQL Montador.pdb
+C:\Users\betot\source\repos\Projeto SQL Montador\obj\Debug\netcoreapp2.1\Projeto SQL Montador.csprojAssemblyReference.cache
+C:\Users\betot\source\repos\Projeto SQL Montador\obj\Debug\netcoreapp2.1\Projeto SQL Montador.csproj.CoreCompileInputs.cache
+C:\Users\betot\source\repos\Projeto SQL Montador\obj\Debug\netcoreapp2.1\Projeto SQL Montador.AssemblyInfoInputs.cache
+C:\Users\betot\source\repos\Projeto SQL Montador\obj\Debug\netcoreapp2.1\Projeto SQL Montador.AssemblyInfo.cs
+C:\Users\betot\source\repos\Projeto SQL Montador\obj\Debug\netcoreapp2.1\Projeto SQL Montador.dll
+C:\Users\betot\source\repos\Projeto SQL Montador\obj\Debug\netcoreapp2.1\Projeto SQL Montador.pdb
